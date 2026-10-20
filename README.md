@@ -132,9 +132,19 @@ Related projects by the same author
 
 Other open-source projects of the "GiamMa-based researchers SDR R&D IoT":
 
-GNSS-RO Multi-Portal — GNSS Radio Occultation & Scatterometer: real-time, multi-source dashboard monitoring radio-frequency interference, signal anomalies and data-quality degradation in GNSS Radio Occultation observations (bending angles and refractivity), aggregating live feeds from ECMWF, EUMETSAT ROM-SAF and space-situational-awareness platforms with an interactive 3D anomaly globe: https://github.com/GiamMaBasedResearchers/GNSS-RO-Multi-Portal--GNSS-Radio-Occultation-Scatterometer
-SMAP-RFI-Analysis: A client-side web application designed to visualize and analyze Radio Frequency Interference (RFI) data from NASA's Soil Moisture Active Passive (SMAP) satellite mission. This tool enables researchers to detect temporal changes in interference patterns, identifying zones where RFI has appeared ("Turned ON") or disappeared ("Turned OFF") over time: https://github.com/GiamMaBasedResearchers/SMAP-RFI-Analysis 
-ADS-B Sky Tracker Pro: browser-based aviation tracking application focused on GNSS/GPS jamming detection, signal integrity analysis, flight anomaly detection and Secondary Surveillance Radar (SSR) analysis, aggregating data from multiple ADS-B providers: https://github.com/GiamMaBasedResearchers/ADS-B-Sky-Tracker-Pro
+1. GNSS-RO Multi-Portal — GNSS Radio Occultation & Scatterometer: real-time, multi-source dashboard monitoring radio-frequency interference, signal anomalies and data-quality degradation in GNSS Radio Occultation observations (bending angles and refractivity), aggregating live feeds from ECMWF, EUMETSAT ROM-SAF and space-situational-awareness platforms with an interactive 3D anomaly globe: https://github.com/GiamMaBasedResearchers/GNSS-RO-Multi-Portal--GNSS-Radio-Occultation-Scatterometer
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fb2e23d-94a3-46cc-b9d6-baaad8c279fb" />
+
+
+2. SMAP-RFI-Analysis: A client-side web application designed to visualize and analyze Radio Frequency Interference (RFI) data from NASA's Soil Moisture Active Passive (SMAP) satellite mission. This tool enables researchers to detect temporal changes in interference patterns, identifying zones where RFI has appeared ("Turned ON") or disappeared ("Turned OFF") over time: https://github.com/GiamMaBasedResearchers/SMAP-RFI-Analysis
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9948f7b-a4dc-4092-8321-26db78203470" />
+
+
+3. ADS-B Sky Tracker Pro: browser-based aviation tracking application focused on GNSS/GPS jamming detection, signal integrity analysis, flight anomaly detection and Secondary Surveillance Radar (SSR) analysis, aggregating data from multiple ADS-B providers: https://github.com/GiamMaBasedResearchers/ADS-B-Sky-Tracker-Pro
+
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/2a737595-c9ab-4b62-9375-0160e82da4a3" />
 
 
 References
