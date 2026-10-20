@@ -1,3 +1,23 @@
+Thanks especially to the SAT-JAM Group that allows us these analyzes with publicly available data!
+
+https://sat-jam.com
+
+Obviously, there will be several fixes to be made, and the code isn't clean, and you will find entities that appear to be false positives but are not always false positives. I consider the exercise very interesting for various levels of understanding, knowledge and technicalities.
+
+As always, you can use the plain HTML locally 👋👋👋
+
+To preview GitHub HTML files, use these services by pasting the links:
+
+https://raw.githack.com/ (Tested / working)
+
+Fast Link:
+
+https://raw.githack.com/GiamMaBasedResearchers/Sentinel-Jam---GNSS-RFI-Interference-Monitor-Copernicus-Sentinel-2-/main/sentinel-jam-monitor.html
+
+Thanks to:
+
+https://github.com/neoascetic/rawgithack
+
 Sentinel Jam — GNSS / RFI Interference Monitor (Copernicus Sentinel-2)
 
 Sentinel Jam is a browser-based monitor that surveys GNSS radio-frequency interference using the GNSS receivers flown on the Copernicus Sentinel-2 satellites as worldwide, space-based detectors. It retrieves the daily GNSS RINEX observation files (AUX_GNSSRD) published as open data by the Copernicus Data Space Ecosystem, analyses them epoch by epoch directly in the browser, and displays correlated signal-quality degradations on an interactive world map along the satellites' ground tracks.
@@ -124,4 +144,9 @@ Stanford University, GNSS Interference Map, ADS-B/NIC-based RFI monitoring and r
 Flightradar24, GPS jamming map derived from ADS-B navigation integrity data: https://www.flightradar24.com/data/gps-jamming
 Wingbits, live GPS jamming and spoofing map: https://wingbits.com/gps-jamming?layers=both
 sat-jam.com, independent comparable GNSS interference monitoring service (cross-check only, not part of this project): https://sat-jam.com
+
 Author profile and updates: https://x.com/giammaiot2
+
+This code provide from: "GiamMa-based researchers SDR R&D IoT" | @GiammaIoT2 License
+
+This project is provided for research and educational purposes.
