@@ -149,19 +149,31 @@ Other open-source projects of the "GiamMa-based researchers SDR R&D IoT":
 
 References
 
-Copernicus Data Space Ecosystem, portal and free registration: https://dataspace.copernicus.eu
-Copernicus Data Space Ecosystem, OData API documentation: https://documentation.dataspace.copernicus.eu/APIs/OData.html
-Sentinel-2 mission, ESA Sentinel Online: https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2
-Copernicus POD Product Handbook (AUX_GNSSRD, AUX_POEORB, AUX_PROQUA product definitions): https://sentinels.copernicus.eu/documents/d/sentinel/copernicus-pod-product-handbook
-RINEX, The Receiver Independent Exchange Format, Version 3.03, IGS: https://files.igs.org/pub/formats/rinex/rinex303.pdf
-GPSJam, daily GNSS interference maps derived from ADS-B data (independent cross-check): https://gpsjam.org
-Stanford University, GNSS Interference Detection using ADS-B, monitoring and analysis dashboard: https://waas-nas.stanford.edu/
-Stanford University, GNSS Interference Map, ADS-B/NIC-based RFI monitoring and research (GPS Research Lab): https://rfi.stanford.edu/
-Flightradar24, GPS jamming map derived from ADS-B navigation integrity data: https://www.flightradar24.com/data/gps-jamming
-Wingbits, live GPS jamming and spoofing map: https://wingbits.com/gps-jamming?layers=both
-sat-jam.com, independent comparable GNSS interference monitoring service (cross-check only, not part of this project): https://sat-jam.com
+1. Copernicus Data Space Ecosystem, portal and free registration: https://dataspace.copernicus.eu
+
+2. Copernicus Data Space Ecosystem, OData API documentation: https://documentation.dataspace.copernicus.eu/APIs/OData.html
+
+3. Sentinel-2 mission, ESA Sentinel Online: https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2
+
+4. Copernicus POD Product Handbook (AUX_GNSSRD, AUX_POEORB, AUX_PROQUA product definitions): https://sentinels.copernicus.eu/documents/d/sentinel/copernicus-pod-product-handbook
+
+5. RINEX, The Receiver Independent Exchange Format, Version 3.03, IGS: https://files.igs.org/pub/formats/rinex/rinex303.pdf
+
+6. GPSJam, daily GNSS interference maps derived from ADS-B data (independent cross-check): https://gpsjam.org
+
+7. Stanford University, GNSS Interference Detection using ADS-B, monitoring and analysis dashboard: https://waas-nas.stanford.edu/
+
+8. Stanford University, GNSS Interference Map, ADS-B/NIC-based RFI monitoring and research (GPS Research Lab): https://rfi.stanford.edu/
+
+9. Flightradar24, GPS jamming map derived from ADS-B navigation integrity data: https://www.flightradar24.com/data/gps-jamming
+
+10. Wingbits, live GPS jamming and spoofing map: https://wingbits.com/gps-jamming?layers=both
+
+11. sat-jam.com, independent comparable GNSS interference monitoring service (cross-check only, not part of this project): https://sat-jam.com
+
 
 Author profile and updates: https://x.com/giammaiot2
+
 
 This code provide from: "GiamMa-based researchers SDR R&D IoT" | @GiammaIoT2 License
 
