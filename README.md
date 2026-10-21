@@ -2,6 +2,7 @@ Sentinel Jam — GNSS / RFI Interference Monitor (Copernicus Sentinel-2)
 
 <img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/9b1dfa36-c8f2-4d16-a0c7-d890e2cd5ccd" />
 
+
 Thanks especially to the SAT-JAM Group that allows us these analyzes with publicly available data!
 
 https://sat-jam.com
@@ -54,6 +55,7 @@ Platforms
 <img width="730" height="256" alt="image" src="https://github.com/user-attachments/assets/583d2b30-e82b-4dad-bbee-cfe2ddc8f428" />
 
 
+
 What the dashboard provides
 
 - Interactive hexagonal map with two modes: Anomalies (event collection, one cell colour per worst observed event, chronological popups, minimum-events filter) and Heatmap (share of affected passes per cell, fixed eight-colour ramp, quantile filter). Hexagon size auto-adaptive or manual from about 75 km to about 600 km, adjustable opacity, four base maps (Dark, Streets, Satellite, Terrain).
@@ -88,7 +90,9 @@ Getting started (recommended path)
 
 Detection parameters
 
+
 <img width="730" height="387" alt="image" src="https://github.com/user-attachments/assets/0c193c8f-ecda-48ae-a3c0-362eed8764f4" />
+
 
 Reading results responsibly: natural causes matter
 
@@ -120,7 +124,9 @@ Privacy and security
 
 Repository contents
 
+
 <img width="727" height="261" alt="image" src="https://github.com/user-attachments/assets/fd731acb-bab7-4bb0-801c-38a00c946743" />
+
 
 File added VALIDATION-REPORT.md
 
@@ -142,10 +148,12 @@ Other open-source projects of the "GiamMa-based researchers SDR R&D IoT":
 
 1. GNSS-RO Multi-Portal — GNSS Radio Occultation & Scatterometer: real-time, multi-source dashboard monitoring radio-frequency interference, signal anomalies and data-quality degradation in GNSS Radio Occultation observations (bending angles and refractivity), aggregating live feeds from ECMWF, EUMETSAT ROM-SAF and space-situational-awareness platforms with an interactive 3D anomaly globe: https://github.com/GiamMaBasedResearchers/GNSS-RO-Multi-Portal--GNSS-Radio-Occultation-Scatterometer
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fb2e23d-94a3-46cc-b9d6-baaad8c279fb" />
 
 
 2. SMAP-RFI-Analysis: A client-side web application designed to visualize and analyze Radio Frequency Interference (RFI) data from NASA's Soil Moisture Active Passive (SMAP) satellite mission. This tool enables researchers to detect temporal changes in interference patterns, identifying zones where RFI has appeared ("Turned ON") or disappeared ("Turned OFF") over time: https://github.com/GiamMaBasedResearchers/SMAP-RFI-Analysis
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9948f7b-a4dc-4092-8321-26db78203470" />
 
