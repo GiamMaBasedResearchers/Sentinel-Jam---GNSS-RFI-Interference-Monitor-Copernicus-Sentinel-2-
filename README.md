@@ -52,11 +52,11 @@ Two further detectors complete the picture:
 - Speed / kinematic check (anti-spoofing and receiver quality): the AUX_GNSSRD files contain no positions, velocities or navigation data, only pseudorange, carrier phase and receiver clock at 10-second intervals. The check verifies the physical consistency of exactly these observables with three metrics that are all independent of the receiver clock: a correlated carrier-phase versus code rate mismatch on three or more satellites at once (the signature of spoofed signals with non-physical dynamics), line-of-sight acceleration deviating from the cross-satellite median beyond physical bounds (nominal spread on real files: p99 of about 8 to 10 m/s2), and receiver-clock steps at the millisecond scale (real -10 ms events have been observed on Sentinel-2C). Levels: Normal (anti-spoofing, default), High sensitivity and Off. Flagged intervals are reported as speed / kinematic alerts on a dedicated map layer. Single-satellite multipath and ordinary cycle slips stay below the rules by design.
 
 Platforms
-
+<br>
+<br>
 <img width="730" height="256" alt="image" src="https://github.com/user-attachments/assets/583d2b30-e82b-4dad-bbee-cfe2ddc8f428" />
-
-
-
+<br>
+<br>
 What the dashboard provides
 
 - Interactive hexagonal map with two modes: Anomalies (event collection, one cell colour per worst observed event, chronological popups, minimum-events filter) and Heatmap (share of affected passes per cell, fixed eight-colour ramp, quantile filter). Hexagon size auto-adaptive or manual from about 75 km to about 600 km, adjustable opacity, four base maps (Dark, Streets, Satellite, Terrain).
@@ -90,11 +90,11 @@ Getting started (recommended path)
 
 
 Detection parameters
-
-
+<br>
+<br>
 <img width="730" height="387" alt="image" src="https://github.com/user-attachments/assets/0c193c8f-ecda-48ae-a3c0-362eed8764f4" />
-
-
+<br>
+<br>
 Reading results responsibly: natural causes matter
 
 Not every correlated anomaly is intentional interference. Several natural and technical effects produce the same signature, and a responsible reading must always take them into account:
@@ -124,11 +124,11 @@ Privacy and security
 - No telemetry, no analytics, no third-party tracking. Map tiles are retrieved from public Esri and OpenTopoMap services.
 
 Repository contents
-
-
+<br>
+<br>
 <img width="727" height="261" alt="image" src="https://github.com/user-attachments/assets/fd731acb-bab7-4bb0-801c-38a00c946743" />
-
-
+<br>
+<br>
 File added VALIDATION-REPORT.md
 
 This report is our attempt to be as open as possible about what our tool does — and about what we can and cannot yet prove. It documents the data, the algorithms, the tests we ran and the limits we still have, with all evidence and references included. We do our best to give credibility to everything we publish: we believe honesty about open points is part of that effort, and we keep working on them with the same care and dedication.
@@ -148,22 +148,23 @@ Related projects by the same author
 Other open-source projects of the "GiamMa-based researchers SDR R&D IoT":
 
 1. GNSS-RO Multi-Portal — GNSS Radio Occultation & Scatterometer: real-time, multi-source dashboard monitoring radio-frequency interference, signal anomalies and data-quality degradation in GNSS Radio Occultation observations (bending angles and refractivity), aggregating live feeds from ECMWF, EUMETSAT ROM-SAF and space-situational-awareness platforms with an interactive 3D anomaly globe: https://github.com/GiamMaBasedResearchers/GNSS-RO-Multi-Portal--GNSS-Radio-Occultation-Scatterometer
-
-
+<br>
+<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fb2e23d-94a3-46cc-b9d6-baaad8c279fb" />
-
-
+<br>
+<br>
 2. SMAP-RFI-Analysis: A client-side web application designed to visualize and analyze Radio Frequency Interference (RFI) data from NASA's Soil Moisture Active Passive (SMAP) satellite mission. This tool enables researchers to detect temporal changes in interference patterns, identifying zones where RFI has appeared ("Turned ON") or disappeared ("Turned OFF") over time: https://github.com/GiamMaBasedResearchers/SMAP-RFI-Analysis
-
-
+<br>
+<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9948f7b-a4dc-4092-8321-26db78203470" />
-
-
+<br>
+<br>
 3. ADS-B Sky Tracker Pro: browser-based aviation tracking application focused on GNSS/GPS jamming detection, signal integrity analysis, flight anomaly detection and Secondary Surveillance Radar (SSR) analysis, aggregating data from multiple ADS-B providers: https://github.com/GiamMaBasedResearchers/ADS-B-Sky-Tracker-Pro
-
+<br>
+<br>
 <img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/2a737595-c9ab-4b62-9375-0160e82da4a3" />
-
-
+<br>
+<br>
 References
 
 1. Copernicus Data Space Ecosystem, portal and free registration: https://dataspace.copernicus.eu
