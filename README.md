@@ -149,7 +149,6 @@ Other open-source projects of the "GiamMa-based researchers SDR R&D IoT":
 
 1. GNSS-RO Multi-Portal — GNSS Radio Occultation & Scatterometer: real-time, multi-source dashboard monitoring radio-frequency interference, signal anomalies and data-quality degradation in GNSS Radio Occultation observations (bending angles and refractivity), aggregating live feeds from ECMWF, EUMETSAT ROM-SAF and space-situational-awareness platforms with an interactive 3D anomaly globe: https://github.com/GiamMaBasedResearchers/GNSS-RO-Multi-Portal--GNSS-Radio-Occultation-Scatterometer
 <br>
-<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fb2e23d-94a3-46cc-b9d6-baaad8c279fb" />
 <br>
 <br>
