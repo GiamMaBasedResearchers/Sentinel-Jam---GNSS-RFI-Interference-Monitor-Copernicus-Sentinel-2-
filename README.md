@@ -1,8 +1,9 @@
 Sentinel Jam — GNSS / RFI Interference Monitor (Copernicus Sentinel-2)
-
+<br>
+<br>
 <img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/9b1dfa36-c8f2-4d16-a0c7-d890e2cd5ccd" />
-
-
+<br>
+<br>
 Thanks especially to the SAT-JAM Group that allows us these analyzes with publicly available data!
 
 https://sat-jam.com
