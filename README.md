@@ -122,6 +122,14 @@ Repository contents
 
 <img width="727" height="261" alt="image" src="https://github.com/user-attachments/assets/fd731acb-bab7-4bb0-801c-38a00c946743" />
 
+File added VALIDATION-REPORT.md
+
+This report is our attempt to be as open as possible about what our tool does — and about what we can and cannot yet prove. It documents the data, the algorithms, the tests we ran and the limits we still have, with all evidence and references included. We do our best to give credibility to everything we publish: we believe honesty about open points is part of that effort, and we keep working on them with the same care and dedication.
+
+File added GNSS-MONITORING-RESOURCES.md
+
+A curated catalogue of the monitoring services and reference networks we rely on — space weather, ionosphere, satellite clocks, interference monitoring from LEO, and CORS / RTK / RINEX providers for GPS, GLONASS, BeiDou and Galileo. Every entry was checked against public documentation and carries its source, so that anyone can verify the same references we use. It is a small but sincere piece of our ongoing commitment to careful, dedicated work.
+
 Credits
 
 This code is provided by: "GiamMa-based researchers SDR R&D IoT" | @giammaiot2 — https://x.com/giammaiot2
